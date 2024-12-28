@@ -65,24 +65,5 @@ Aplikasi Pinjam Pustaka adalah aplikasi berbasis Java Swing yang memungkinkan pe
 
 ---
 
-## Ketergantungan
-- Java 8 atau lebih baru
-- Java Swing (termasuk dalam JDK)
-- File gambar buku di folder `images/`
-
----
-
-## Penjelasan Warna dan Desain
-1. **Login Page**
-   - Latar belakang: Abu-abu terang (#F5F5FA)
-   - Teks label: Biru tua (#003366)
-   - Tombol: Biru baja (#4682B4) dengan teks putih
-
-2. **Main Page**
-   - Header tabel: Biru baja (#4682B4) dengan teks putih
-   - Teks tabel: Hitam
-   - Gambar buku: Ditampilkan dalam ukuran 100x120 piksel
-
----
 
 
